@@ -16,7 +16,7 @@ Projeto construido com o objetivo em dar uma sugestão de qual filme assistir.
 ![preview](./.github/preview_1.png)
 ![preview](./.github/preview_2.png)
 
-[Clique aqui para acessar](https://brunogoncalvesferreira.github.io/NLWeSports/)
+[Clique aqui para acessar](https://br-flix.netlify.app/)
 
 <br>
 
