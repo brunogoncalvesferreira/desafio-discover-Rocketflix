@@ -2,7 +2,7 @@
 
 > Descrição
 
-Projeto construido com o objetivo em dar uma sugestão de qual filme assistir.
+Projeto construido com o objetivo em dar sugestão de qual filme assistir.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
