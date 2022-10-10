@@ -50,6 +50,3 @@ Na aplicação conseguimos ter uma sugestão de filmes aleatórios, com base na 
 [![Gmail Badge](https://img.shields.io/badge/-brunogonferreira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunogonferreira@gmail.com)](mailto:brunogonferreira@gmail.com)
 
 ---
-
-
-# br-flix
